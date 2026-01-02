@@ -5,7 +5,7 @@
 ## 🔗 Live Links
 - **Frontend (UI):** [https://task-manager-nine-ecru.vercel.app/]
 - **Backend (API):** [https://sample-task-manager.onrender.com]
-- **API Documentation (Swagger):** [https://sample-task-manager.onrender.com]/api-docs
+- **API Documentation (Swagger):** [https://sample-task-manager.onrender.com/api-docs]
 
 ---
 
