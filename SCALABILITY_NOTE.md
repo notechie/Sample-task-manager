@@ -1,4 +1,4 @@
-### **Scalability & Future Roadmap
+### **Scalability & Future Roadmap**
 
 To scale this application for production use:
 
