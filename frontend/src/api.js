@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://task-manager-backend-wpx3.onrender.com/api/v1',
+  baseURL: 'https://sample-task-manager.onrender.com/api/v1',
 });
 
 // Interceptor to attach JWT token to every request
@@ -12,5 +12,6 @@ api.interceptors.request.use((config) => {
   }
   return config;
 });
+
 
 export default api;
