@@ -1,4 +1,4 @@
-# TaskFlow: Scalable Task Management System
+# Task Manager Demo
 
 **TaskFlow** is a full-stack MERN (MongoDB, Express, React, Node) application developed as a technical assessment for the Backend Developer Intern position. The project focuses on building a secure, modular, and documented REST API, accompanied by a functional React frontend.
 
